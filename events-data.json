@@ -1,172 +1,148 @@
 {
-    "marketableCampfireLiveEvents": [
-        {
-            "id": "c04b5622-fd90-47ea-9a49-ff9a1ca839b9",
-            "eventName": "Woobat Max Monday",
-            "startTimestamp": "2026-03-30T08:00:00Z",
-            "endTimestamp": "2026-03-31T07:59:00Z",
-            "localStartTime": "2026/03/30 18:00:00",
-            "localEndTime": "2026/03/30 20:00:00"
-        },
-        {
-            "id": "d96d6b9c-5d69-4ddd-95e6-22c1e0c8f455",
-            "eventName": "Mareep Spotlight Hour",
-            "startTimestamp": "2026-03-31T07:00:00Z",
-            "endTimestamp": "2026-04-01T06:59:00Z",
-            "localStartTime": "2026/03/31 18:00:00",
-            "localEndTime": "2026/03/31 20:00:00"
-        },
-        {
-            "id": "23d3138d-a640-469b-9511-06da1167acec",
-            "eventName": "Pikachu Spotlight Hour",
-            "startTimestamp": "2026-04-01T07:00:00Z",
-            "endTimestamp": "2026-04-02T06:59:00Z",
-            "localStartTime": "2026/04/01 18:00:00",
-            "localEndTime": "2026/04/01 20:00:00"
-        },
-        {
-            "id": "42368534-3ef0-4bb3-b9a4-728226fe779a",
-            "eventName": "Regidrago Raid Hour",
-            "startTimestamp": "2026-04-01T08:00:00Z",
-            "endTimestamp": "2026-04-02T07:59:00Z",
-            "localStartTime": "2026/04/01 18:00:00",
-            "localEndTime": "2026/04/01 20:00:00"
-        },
-        {
-            "id": "5ebe8ba7-6797-4453-972e-b98b0264f95a",
-            "eventName": "Magnemite Spotlight Hour",
-            "startTimestamp": "2026-04-02T07:00:00Z",
-            "endTimestamp": "2026-04-03T06:59:00Z",
-            "localStartTime": "2026/04/02 18:00:00",
-            "localEndTime": "2026/04/02 20:00:00"
-        },
-        {
-            "id": "7b094348-42e8-476a-b45f-c61facc7968f",
-            "eventName": "Chinchou Spotlight Hour",
-            "startTimestamp": "2026-04-03T08:00:00Z",
-            "endTimestamp": "2026-04-04T07:59:00Z",
-            "localStartTime": "2026/04/03 18:00:00",
-            "localEndTime": "2026/04/03 20:00:00"
-        },
-        {
-            "id": "19603d2f-2979-41a1-b3c8-8a84a22a02c5",
-            "eventName": "Fashion Raid Day",
-            "startTimestamp": "2026-04-04T08:00:00Z",
-            "endTimestamp": "2026-04-05T07:59:00Z",
-            "localStartTime": "2026/04/04 11:00:00",
-            "localEndTime": "2026/04/04 19:00:00"
-        },
-        {
-            "id": "ede00cc1-bfe7-4633-96ba-1bd7250d4885",
-            "eventName": "Pawmi Spotlight Hour",
-            "startTimestamp": "2026-04-04T08:00:00Z",
-            "endTimestamp": "2026-04-05T07:59:00Z",
-            "localStartTime": "2026/04/04 18:00:00",
-            "localEndTime": "2026/04/04 20:00:00"
-        },
-        {
-            "id": "14b08e62-262d-4436-bb3c-06e2875874a8",
-            "eventName": "Dedenne Spotlight Hour",
-            "startTimestamp": "2026-04-05T08:00:00Z",
-            "endTimestamp": "2026-04-06T07:59:00Z",
-            "localStartTime": "2026/04/05 18:00:00",
-            "localEndTime": "2026/04/05 20:00:00"
-        },
-        {
-            "id": "0f33d228-6b4c-4450-b148-f753ef7531c0",
-            "eventName": "Trapinch Max Monday",
-            "startTimestamp": "2026-04-06T08:00:00Z",
-            "endTimestamp": "2026-04-07T07:59:00Z",
-            "localStartTime": "2026/04/06 18:00:00",
-            "localEndTime": "2026/04/06 20:00:00"
-        },
-        {
-            "id": "7b2f2ada-b51b-4c9a-a1fa-4bdf456289a4",
-            "eventName": "Joltik Spotlight Hour",
-            "startTimestamp": "2026-04-06T08:00:00Z",
-            "endTimestamp": "2026-04-07T07:59:00Z",
-            "localStartTime": "2026/04/06 18:00:00",
-            "localEndTime": "2026/04/06 20:00:00"
-        },
-        {
-            "id": "e331c2b9-509f-4d65-9c2e-08f7669530d6",
-            "eventName": "Kyogre Raid Hour",
-            "startTimestamp": "2026-04-08T08:00:00Z",
-            "endTimestamp": "2026-04-09T07:59:00Z",
-            "localStartTime": "2026/04/08 18:00:00",
-            "localEndTime": "2026/04/08 20:00:00"
-        },
-        {
-            "id": "8db1d6d5-0a0f-4808-8314-f9fdd81ee4dd",
-            "eventName": "Tinkatink Community Day",
-            "startTimestamp": "2026-04-11T08:00:00Z",
-            "endTimestamp": "2026-04-12T07:59:00Z",
-            "localStartTime": "2026/04/11 14:00:00",
-            "localEndTime": "2026/04/11 17:00:00"
-        },
-        {
-            "id": "0fb83a48-331f-44d0-af44-9e528d0baece",
-            "eventName": "Drilbur Max Monday",
-            "startTimestamp": "2026-04-13T08:00:00Z",
-            "endTimestamp": "2026-04-14T07:59:00Z",
-            "localStartTime": "2026/04/13 18:00:00",
-            "localEndTime": "2026/04/13 20:00:00"
-        },
-        {
-            "id": "ec151c91-9fa4-4ae6-b2ab-3ada50815b9a",
-            "eventName": "Groudon Raid Hour",
-            "startTimestamp": "2026-04-15T08:00:00Z",
-            "endTimestamp": "2026-04-16T07:59:00Z",
-            "localStartTime": "2026/04/15 18:00:00",
-            "localEndTime": "2026/04/15 20:00:00"
-        },
-        {
-            "id": "cb504a81-dd32-46c9-9aa4-842fad022609",
-            "eventName": "Riolu Hatch Day",
-            "startTimestamp": "2026-04-18T08:00:00Z",
-            "endTimestamp": "2026-04-19T07:59:00Z",
-            "localStartTime": "2026/04/18 11:00:00",
-            "localEndTime": "2026/04/18 19:00:00"
-        },
-        {
-            "id": "c8f9d75b-c51d-4691-8e7a-ffb442f720f0",
-            "eventName": "Regirock Max Monday",
-            "startTimestamp": "2026-04-20T08:00:00Z",
-            "endTimestamp": "2026-04-21T07:59:00Z",
-            "localStartTime": "2026/04/20 18:00:00",
-            "localEndTime": "2026/04/20 20:00:00"
-        },
-        {
-            "id": "dc6f391a-8294-4b38-8c8b-73da23f34b7d",
-            "eventName": "Tapu Koko Raid Hour",
-            "startTimestamp": "2026-04-22T08:00:00Z",
-            "endTimestamp": "2026-04-23T07:59:00Z",
-            "localStartTime": "2026/04/22 18:00:00",
-            "localEndTime": "2026/04/22 20:00:00"
-        },
-        {
-            "id": "bd75d7dd-05f6-4241-878d-20f0b27242d3",
-            "eventName": "Max Battle Day",
-            "startTimestamp": "2026-04-25T08:00:00Z",
-            "endTimestamp": "2026-04-26T07:59:00Z",
-            "localStartTime": "2026/04/25 07:00:00",
-            "localEndTime": "2026/04/25 23:00:00"
-        },
-        {
-            "id": "f09837f6-b86e-408e-ba57-7ce3f9980665",
-            "eventName": "Shuckle Max Monday",
-            "startTimestamp": "2026-04-27T08:00:00Z",
-            "endTimestamp": "2026-04-28T07:59:00Z",
-            "localStartTime": "2026/04/27 18:00:00",
-            "localEndTime": "2026/04/27 20:00:00"
-        },
-        {
-            "id": "e9ba7ade-d7cd-4dd2-85d5-539c4716a18d",
-            "eventName": "Tapu Lele Raid Hour",
-            "startTimestamp": "2026-04-29T08:00:00Z",
-            "endTimestamp": "2026-04-30T07:59:00Z",
-            "localStartTime": "2026/04/29 18:00:00",
-            "localEndTime": "2026/04/29 20:00:00"
-        }
-    ]
-}
+        "marketableCampfireLiveEvents": [
+            {
+                "id": "1e2fbb43-eda4-4adc-8c43-0639d3f0e645",
+                "eventName": "Entei Shadow Raid Day",
+                "startTimestamp": "2026-05-02T08:00:00Z",
+                "endTimestamp": "2026-05-03T07:59:00Z",
+                "localStartTime": "2026/05/02 07:00:00",
+                "localEndTime": "2026/05/02 23:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/shadow-raid-day-heading-image.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "45c3d2b3-76e8-4aa9-9888-609f492fe6d6",
+                "eventName": "Cottonee Max Monday",
+                "startTimestamp": "2026-05-04T08:00:00Z",
+                "endTimestamp": "2026-05-05T07:59:00Z",
+                "localStartTime": "2026/05/04 18:00:00",
+                "localEndTime": "2026/05/04 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/All%20Meetups%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "2108c74c-070c-4cc9-977a-4eecb62adfa9",
+                "eventName": "Nihilego Raid Hour",
+                "startTimestamp": "2026-05-06T08:00:00Z",
+                "endTimestamp": "2026-05-07T07:59:00Z",
+                "localStartTime": "2026/05/06 18:00:00",
+                "localEndTime": "2026/05/06 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/Raid%20Hour%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "e4fa518a-5a92-40b4-a750-10da03315117",
+                "eventName": "Lechonk Community Day",
+                "startTimestamp": "2026-05-09T08:00:00Z",
+                "endTimestamp": "2026-05-10T07:59:00Z",
+                "localStartTime": "2026/05/09 14:00:00",
+                "localEndTime": "2026/05/09 17:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/CD%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "46140e3d-afdb-447b-832d-f99c0d0832ec",
+                "eventName": "Growlithe Max Monday",
+                "startTimestamp": "2026-05-11T08:00:00Z",
+                "endTimestamp": "2026-05-12T07:59:00Z",
+                "localStartTime": "2026/05/11 18:00:00",
+                "localEndTime": "2026/05/11 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/All%20Meetups%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "3e6ec6da-e479-4c2d-88f7-c8780b27ee62",
+                "eventName": "Buzzwole, Pheromosa, Xurkitree Raid Hour",
+                "startTimestamp": "2026-05-13T08:00:00Z",
+                "endTimestamp": "2026-05-14T07:59:00Z",
+                "localStartTime": "2026/05/13 18:00:00",
+                "localEndTime": "2026/05/13 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/Raid%20Hour%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "c788146d-4842-46aa-9e7b-8045442faa05",
+                "eventName": "Deino Community Classic Day",
+                "startTimestamp": "2026-05-16T08:00:00Z",
+                "endTimestamp": "2026-05-17T07:59:00Z",
+                "localStartTime": "2026/05/16 07:00:00",
+                "localEndTime": "2026/05/16 23:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/All%20Meetups%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "fb379f0c-4c0e-4d96-8f03-ac9d8c47329f",
+                "eventName": "Registeel Max Monday",
+                "startTimestamp": "2026-05-18T08:00:00Z",
+                "endTimestamp": "2026-05-19T07:59:00Z",
+                "localStartTime": "2026/05/18 18:00:00",
+                "localEndTime": "2026/05/18 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/All%20Meetups%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "17abeed5-8eb6-4ba2-b680-bbecc5e59007",
+                "eventName": "Tapu Bulu Raid Hour",
+                "startTimestamp": "2026-05-20T08:00:00Z",
+                "endTimestamp": "2026-05-21T07:59:00Z",
+                "localStartTime": "2026/05/20 18:00:00",
+                "localEndTime": "2026/05/20 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/Raid%20Hour%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "3c13e325-cd14-409c-981e-1e928823ffaf",
+                "eventName": "Falinks Super Mega Raid Day",
+                "startTimestamp": "2026-05-23T08:00:00Z",
+                "endTimestamp": "2026-05-24T07:59:00Z",
+                "localStartTime": "2026/05/23 11:00:00",
+                "localEndTime": "2026/05/23 19:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/Mega%20Raid%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "ed0cf56a-489a-42b7-92be-929290ae45ba",
+                "eventName": "Combee Max Monday",
+                "startTimestamp": "2026-05-25T08:00:00Z",
+                "endTimestamp": "2026-05-26T07:59:00Z",
+                "localStartTime": "2026/05/25 18:00:00",
+                "localEndTime": "2026/05/25 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/All%20Meetups%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            },
+            {
+                "id": "279805c1-742e-4bfe-a39d-4ce908e4c084",
+                "eventName": "Tapu Fini Raid Hour",
+                "startTimestamp": "2026-05-27T08:00:00Z",
+                "endTimestamp": "2026-05-28T07:59:00Z",
+                "localStartTime": "2026/05/27 18:00:00",
+                "localEndTime": "2026/05/27 20:00:00",
+                "modalHeadingImageUrl": "https://social.nianticlabs.com/images/live_event/Raid%20Hour%402x.png",
+                "location": null,
+                "restrictTaggingByLocation": false,
+                "geofenceRadiusMeters": 0
+            }
+        ]
+    }

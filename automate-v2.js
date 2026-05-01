@@ -755,14 +755,17 @@ async function main() {
     if (CONFIG.hostedByCommunityAmbassador) {
         console.log(`9. Checking "Hosted by Community Ambassador"...`);
 
+        // Wait a bit more for the toggle to appear after group selection
+        await sleep(1000);
+
         // Poll until the ambassador toggle appears (it renders after group selection)
         let ambassadorChecked = { success: false };
-        for (let attempt = 0; attempt < 15; attempt++) {
+        for (let attempt = 0; attempt < 30; attempt++) {
             ambassadorChecked = await page.evaluate(() => {
                 const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
                 while (walker.nextNode()) {
                     const text = walker.currentNode.textContent.toLowerCase();
-                    if (text.includes('ambassador')) {
+                    if (text.includes('hosted by') && text.includes('ambassador')) {
                         const parent = walker.currentNode.parentElement;
                         // Walk up to find the toggle/checkbox
                         let el = parent;
@@ -788,7 +791,7 @@ async function main() {
             });
 
             if (ambassadorChecked.success) break;
-            await sleep(300);
+            await sleep(500);
         }
 
         if (ambassadorChecked.success) {
